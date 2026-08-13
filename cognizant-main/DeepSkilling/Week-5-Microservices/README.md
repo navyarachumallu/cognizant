@@ -143,6 +143,6 @@ Week-5-Microservices
 
 ## Author
 
-**Gani Lakshmi**
+**Navya Rachumallu**
 
 **Cognizant Digital Nurture 5.0**
