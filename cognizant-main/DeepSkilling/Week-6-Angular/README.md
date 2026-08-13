@@ -66,7 +66,7 @@ Week-6-Angular
 
 ## Author
 
-**Gani Lakshmi**  
+**Navya Rachumallu**  
 **Cognizant Digital Nurture 5.0**
 
 ---
