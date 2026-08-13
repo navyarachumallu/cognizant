@@ -25,7 +25,7 @@ This directory contains SQL scripts, query exercises, notes, and assessment veri
 
 ## Author
 
-**Gani Lakshmi**  
+**Navya Rachumallu**  
 **Cognizant Digital Nurture 5.0**
 
 ---
