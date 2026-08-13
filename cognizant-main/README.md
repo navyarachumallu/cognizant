@@ -199,7 +199,7 @@ This repository showcases my progress in the Cognizant Digital Nurture 5.0 progr
 
 ## Author
 
-**Gani Lakshmi**  
+**Navya Rachumallu**  
 B.Tech CSE (AI & ML)  
 Vignan's Foundation for Science, Technology and Research
 
