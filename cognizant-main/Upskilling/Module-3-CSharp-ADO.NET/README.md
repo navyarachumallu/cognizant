@@ -26,7 +26,7 @@ This directory contains C# code implementations, ADO.NET database connectivity s
 
 ## Author
 
-**Gani Lakshmi**  
+**Navya Rachumallu**  
 **Cognizant Digital Nurture 5.0**
 
 ---
